@@ -112,8 +112,9 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "yuvan", link: "mailto:yuvan@nike.com" },
-            { name: "+918608850270", link: "tel:+92696969" },
+            { name: "yuvanraj700@gmail,com", link: "yuvanraj700@gmail.com" },
+            { name: "+91 8608850270", link: "tel:+91 8608850270" },
+            e1f3ca69c8b7b3df61c7579e89f4b554279a4914
         ],
     },
 ];
